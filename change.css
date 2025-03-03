@@ -1,0 +1,16 @@
+.box
+{
+    color:black;
+    margin-left:530px;
+    margin-top:300px;
+   border:ridge;
+   height:auto;
+   width: 450px;;
+   border-color: black;
+   border-radius: 20px;
+
+}
+.set
+{
+    text-align: center;
+}
